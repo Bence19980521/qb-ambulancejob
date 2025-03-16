@@ -85,7 +85,7 @@ Config.Locations = {                -- Edit the various interaction points for p
     ['hospital'] = {
         {
             ['name'] = Lang:t('info.pb_hospital'),
-            ['location'] = vector3(308.36, -595.25, 43.28),
+            ['location'] = vector3(302.36, -598.43, 43.47),
             ['beds'] = {
                 { coords = vector4(353.1, -584.6, 43.11, 152.08),   taken = false, model = 1631638868 },
                 { coords = vector4(356.79, -585.86, 43.11, 152.08), taken = false, model = 1631638868 },
