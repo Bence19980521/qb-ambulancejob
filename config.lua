@@ -42,7 +42,7 @@ Config.Locations = {                -- Edit the various interaction points for p
         vector3(-254.54, 6331.78, 32.43), -- paleto
     },
     ['duty'] = {
-        vector3(311.18, -599.25, 43.29),
+        vector3(302.46, -598.55, 43.49),
         vector3(-254.88, 6324.5, 32.58), -- paleto
     },
     ['vehicle'] = {
